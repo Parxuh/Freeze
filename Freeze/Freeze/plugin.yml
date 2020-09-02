@@ -1,0 +1,11 @@
+main: freeze.FreezeMain
+name: Freeze
+version: 1.0.0
+description: Freeze plugin
+api-version: 1.16
+Author: Parxuh
+commands:
+  freeze:
+    description: freeze command
+  unfreeze:
+    description: unfreeze command
